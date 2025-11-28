@@ -1,0 +1,9 @@
+nano ~/.bashrc (abrir o bashrc para editar os atalhos)
+alias ssc-ame='ssh root@159.89.237.39' (comando para editar)
+alias ssc-eur='ssh root@165.22.193.98' (comando para editar)
+source ~/.bashrc (atualizar o bashrc)
+ssc-eur (atalho pro servidor europa)
+cd config (confirmação do caminho do ssc-eur.txt)
+logout
+scp root@165.22.193.98:~/config/ssc-eur.txt ~/Downloads/ (comando para baixar o arquivo txt para nossa máquina local)
+ scp root@159.89.237.39:~/config/ssc-ame.txt ~/Downloads/ (comando para baixar o arquivo txt para nossa máquina local)

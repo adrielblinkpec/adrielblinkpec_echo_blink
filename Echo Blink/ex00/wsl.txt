@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINVGjIW8aI8kNj3zpjHOjUm0VCrnwElRCw6aiGuWWJws pedro@Blink-Estagio
